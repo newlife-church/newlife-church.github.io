@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>New Life</title>
+    <link href="https://newlife-church.github.io/feed.xml" rel="self" />
+    <link href="https://newlife-church.github.io" />
+    <updated>2020-02-10T18:33:24-06:00</updated>
+    <author>
+        <name>God</name>
+    </author>
+    <id>https://newlife-church.github.io</id>
+
+    <entry>
+        <title>Hello world</title>
+        <author>
+            <name>God</name>
+        </author>
+        <link href="https://newlife-church.github.io/hello-world.html"/>
+        <id>https://newlife-church.github.io/hello-world.html</id>
+
+        <updated>2020-02-10T18:33:13-06:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

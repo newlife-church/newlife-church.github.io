@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "New Life",
+    "description": "",
+    "home_page_url": "https://newlife-church.github.io",
+    "feed_url": "https://newlife-church.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "God"
+    },
+    "items": [
+        {
+            "id": "https://newlife-church.github.io/hello-world.html",
+            "url": "https://newlife-church.github.io/hello-world.html",
+            "title": "Hello world",
+            "author": {
+                "name": "God"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-10T18:33:13-06:00",
+            "date_modified": "2020-02-10T18:33:13-06:00"
+        }
+    ]
+}
