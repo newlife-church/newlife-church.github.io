@@ -10,6 +10,54 @@
     },
     "items": [
         {
+            "id": "https://newlife-church.github.io/giving.html",
+            "url": "https://newlife-church.github.io/giving.html",
+            "title": "Giving",
+            "author": {
+                "name": "God"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-10T18:52:03-06:00",
+            "date_modified": "2020-02-10T18:52:03-06:00"
+        },
+        {
+            "id": "https://newlife-church.github.io/audio.html",
+            "url": "https://newlife-church.github.io/audio.html",
+            "title": "Audio",
+            "author": {
+                "name": "God"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-10T18:51:26-06:00",
+            "date_modified": "2020-02-10T18:51:26-06:00"
+        },
+        {
+            "id": "https://newlife-church.github.io/livestream-sermons.html",
+            "url": "https://newlife-church.github.io/livestream-sermons.html",
+            "title": "Livestream Sermons",
+            "author": {
+                "name": "God"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-10T18:51:16-06:00",
+            "date_modified": "2020-02-10T18:51:16-06:00"
+        },
+        {
+            "id": "https://newlife-church.github.io/about.html",
+            "url": "https://newlife-church.github.io/about.html",
+            "title": "About",
+            "author": {
+                "name": "God"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-10T18:50:52-06:00",
+            "date_modified": "2020-02-10T18:50:52-06:00"
+        },
+        {
             "id": "https://newlife-church.github.io/hello-world.html",
             "url": "https://newlife-church.github.io/hello-world.html",
             "title": "Future home of New Life Church",

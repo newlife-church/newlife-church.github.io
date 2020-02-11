@@ -3,12 +3,60 @@
     <title>New Life</title>
     <link href="https://newlife-church.github.io/feed.xml" rel="self" />
     <link href="https://newlife-church.github.io" />
-    <updated>2020-02-10T18:44:16-06:00</updated>
+    <updated>2020-02-10T18:52:27-06:00</updated>
     <author>
         <name>God</name>
     </author>
     <id>https://newlife-church.github.io</id>
 
+    <entry>
+        <title>Giving</title>
+        <author>
+            <name>God</name>
+        </author>
+        <link href="https://newlife-church.github.io/giving.html"/>
+        <id>https://newlife-church.github.io/giving.html</id>
+
+        <updated>2020-02-10T18:52:03-06:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Audio</title>
+        <author>
+            <name>God</name>
+        </author>
+        <link href="https://newlife-church.github.io/audio.html"/>
+        <id>https://newlife-church.github.io/audio.html</id>
+
+        <updated>2020-02-10T18:51:26-06:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Livestream Sermons</title>
+        <author>
+            <name>God</name>
+        </author>
+        <link href="https://newlife-church.github.io/livestream-sermons.html"/>
+        <id>https://newlife-church.github.io/livestream-sermons.html</id>
+
+        <updated>2020-02-10T18:51:16-06:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>God</name>
+        </author>
+        <link href="https://newlife-church.github.io/about.html"/>
+        <id>https://newlife-church.github.io/about.html</id>
+
+        <updated>2020-02-10T18:50:52-06:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Future home of New Life Church</title>
         <author>
