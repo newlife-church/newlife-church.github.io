@@ -3,21 +3,21 @@
     <title>New Life</title>
     <link href="https://newlife-church.github.io/feed.xml" rel="self" />
     <link href="https://newlife-church.github.io" />
-    <updated>2020-02-10T18:33:24-06:00</updated>
+    <updated>2020-02-10T18:44:16-06:00</updated>
     <author>
         <name>God</name>
     </author>
     <id>https://newlife-church.github.io</id>
 
     <entry>
-        <title>Hello world</title>
+        <title>Future home of New Life Church</title>
         <author>
             <name>God</name>
         </author>
         <link href="https://newlife-church.github.io/hello-world.html"/>
         <id>https://newlife-church.github.io/hello-world.html</id>
 
-        <updated>2020-02-10T18:33:13-06:00</updated>
+        <updated>2020-02-10T18:43:39-06:00</updated>
             <summary></summary>
         <content></content>
     </entry>
